@@ -8,6 +8,8 @@
 
 Успехов!
 
+В папку "Практика" добавлен файл infixConf, в котором содержится решение задачи 5 шз task2.
+
 
  [Актуальное задание для самостоятельной работы](https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2Flogic1-25%2Ftask3.pdf&name=task3.pdf&uid=246453) 
 
